@@ -97,6 +97,9 @@ The website is an interactive map of the field that displays the location of the
 ## Closes Ups
 <img src="https://github.com/jakedonnini/MEAM_510_Robot/assets/24221155/dd5edef2-572c-4ea0-9a77-e553f91c13c9" width="45%"></img> <img src="https://github.com/jakedonnini/MEAM_510_Robot/assets/24221155/68c2552a-c8a8-459e-b69d-5c0b69a9d88c" width="45%"></img> <img src="https://github.com/jakedonnini/MEAM_510_Robot/assets/24221155/3110d174-1c1b-4f28-8e01-1cbb7e9e8d6c" width="45%"></img> <img src="https://github.com/jakedonnini/MEAM_510_Robot/assets/24221155/582b417c-8b75-4134-85dd-f09d9d7f0a0e" width="45%"></img> 
 
+![PXL_20231215_070217709 PORTRAIT](https://github.com/user-attachments/assets/3406f459-0753-4726-91c2-7931ba22b06c)
+
+
 
 
 
